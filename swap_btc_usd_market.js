@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       Kenshou Uemura
-// @match        https://bittrex.com/home/markets
+// @match        https://international.bittrex.com/home/markets
 // @grant        none
 // ==/UserScript==
 
