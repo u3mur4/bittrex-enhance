@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://bittrex.com/Market/Index?MarketName=*-*
+// @match        https://international.bittrex.com/Market/Index?MarketName=*-*
 // @grant        none
 // ==/UserScript==
 
